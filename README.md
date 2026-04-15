@@ -77,6 +77,7 @@ The dataset contains:
 
 ## 📂 Project Structure
 
+```text
 Customer-Segmentation/
 │── data/
 │   └── Mall_Customers.csv
@@ -93,7 +94,7 @@ Customer-Segmentation/
 │   └── Customer_Segmentation_Presentation.pptx
 │
 │── README.md
-
+```
 
 ---
 
