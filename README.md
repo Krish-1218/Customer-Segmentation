@@ -76,7 +76,9 @@ The dataset contains:
 ---
 
 ## 📂 Project Structure
-customer-segmentation/
+## 📂 Project Structure
+
+Customer-Segmentation/
 │── data/
 │   └── Mall_Customers.csv
 │
@@ -91,7 +93,7 @@ customer-segmentation/
 │   ├── Customer_Segmentation_Analysis_Report.pdf
 │   └── Customer_Segmentation_Presentation.pptx
 │
-│── README.md   
+│── README.md
 
 
 ---
