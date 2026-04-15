@@ -76,7 +76,6 @@ The dataset contains:
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 Customer-Segmentation/
 │── data/
